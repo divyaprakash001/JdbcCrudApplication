@@ -3,7 +3,7 @@ package com.divya.entities;
 import java.sql.*;
 import java.util.Scanner;
 
-import com.divya.utilities.JdbcUtil;
+import com.divya.utilities.JdbcUtill;
 
 public class CrudOperation {
 
